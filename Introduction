@@ -1,0 +1,28 @@
+Introduction:
+I made a project where a gesture sensor can read my hand movements.
+
+When I move my hand to the left or right, the sensor understands the gesture.
+
+A servo motor is connected to the sensor, and it physically moves like a small robotic arm.
+
+This servo motor is placed near a normal light switch.
+
+When I do the “LEFT” gesture, the servo motor pushes the switch to ON.
+
+When I do the “RIGHT” gesture, the servo motor moves the switch to OFF.
+
+Before building it, I spent time replicating a model in tinkercad, imagining how the servo and sensor would work together.
+
+Because of that planning, when the real parts arrived, I could finish the setup quickly.
+
+I connected the sensor, servo, and the Arduino in a clear, simple way based on my plan.
+
+After uploading the code, the system worked: the light turns on or off just by my hand movement.
+
+The project makes controlling a light easy even without touching the switch.
+
+This shows how sensors and motors can work together to make small tasks smarter and hands-free.
+
+The whole project became simple because I thought through everything before starting, which made building it much faster.
+
+***NOTE: The project was planned two months before the time of the arrival of components!***
